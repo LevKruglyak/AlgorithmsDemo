@@ -1,0 +1,1 @@
+/Users/levkruglyak/Documents/Testing/AlgorithmsDemo/EuclideanMST/target/debug/euclidean_mst: /Users/levkruglyak/Documents/Testing/AlgorithmsDemo/EuclideanMST/src/main.rs /Users/levkruglyak/Documents/Testing/AlgorithmsDemo/EuclideanMST/src/structures.rs
