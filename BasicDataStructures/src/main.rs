@@ -1,8 +1,8 @@
-mod stack;
 mod list;
+mod stack;
 
-pub use stack::*;
 pub use list::*;
+pub use stack::*;
 
 fn main() {
     let mut stack = Stack::<i32>::new();
